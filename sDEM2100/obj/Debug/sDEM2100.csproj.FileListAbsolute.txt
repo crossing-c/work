@@ -1,0 +1,10 @@
+E:\plug\EEP2015\EEPNetServer\MES\sDEM2100.dll
+E:\plug\EEP2015\EEPNetServer\MES\sDEM2100.pdb
+E:\plug\EEP2015\EEPNetServer\MES\vi-VN\sDEM2100.resources.dll
+E:\case\DEM\sDEM2100\obj\Debug\sDEM2100.Component.resources
+E:\case\DEM\sDEM2100\obj\Debug\sDEM2100.Component.vi-VN.resources
+E:\case\DEM\sDEM2100\obj\Debug\sDEM2100.csproj.GenerateResource.Cache
+E:\case\DEM\sDEM2100\obj\Debug\vi-VN\sDEM2100.resources.dll
+E:\case\DEM\sDEM2100\obj\Debug\sDEM2100.dll
+E:\case\DEM\sDEM2100\obj\Debug\sDEM2100.pdb
+E:\case\DEM\sDEM2100\obj\Debug\sDEM2100.csprojResolveAssemblyReference.cache
